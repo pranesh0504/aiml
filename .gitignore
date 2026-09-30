@@ -1,0 +1,23 @@
+
+# Large datasets
+*.tsv
+*.csv
+*.parquet
+
+# Database
+*.db
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Build
+dist/
+# SQLite temporary files
+*.db-shm
+*.db-wal
